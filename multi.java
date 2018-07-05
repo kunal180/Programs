@@ -9,5 +9,5 @@ public class multi
 	{
 		int m=i*no;
 	}
-	System.out.println("Multiplication table of no : " +m);
+	System.out.println("Multiplication table of no.....#### : " +m);
 }
