@@ -10,7 +10,7 @@ class min_array
 				small=arr[i];
 			
 		}
-		System.out.println("The smallest number is : "+small);
+		System.out.println("The smallest number is... : "+small);
 	}
 	
 	public static void main(String args[])
