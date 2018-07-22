@@ -18,7 +18,7 @@ class palindrome
 		n=n/10;	
 	}
 	if(OrigNo==revno)
-		System.out.println(OrigNo+" is palindrome number.....");
+		System.out.println(OrigNo+" is palindrome number");
 	else
 		System.out.println(OrigNo+" is not palindrome number");
   }
